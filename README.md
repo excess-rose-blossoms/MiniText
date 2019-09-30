@@ -2,7 +2,7 @@
 
 A lightweight text editor written in Python which uses the tkinter module.
 
-![](gifs/1.gif)
+![](gifs/intro.gif)
 
 ## Features!
 
