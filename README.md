@@ -8,7 +8,10 @@ A lightweight text editor written in Python which uses the tkinter module.
 
 * **Basic text editor functionality**
 
-  Create new files, type words and save them! Just like in your favourite text editors!
+  Create new files, type words and save them! Just like in your favourite text editors! 
+
+* **Cut/Copy/Paste**
+  Cut, copy, paste functionality.
 
 * **Text emphasis**
 
