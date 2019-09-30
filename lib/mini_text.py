@@ -11,7 +11,7 @@ import Pmw
 #GLOBALS!
 g_name = "MiniText"
 g_version_num = "1.0"
-g_version_name = "ToddlersFirst"
+g_version_name = "Textiest"
 g_default_font_family = 'Arial'
 g_default_font_size = 12
 
