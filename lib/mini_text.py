@@ -48,7 +48,6 @@ class SearchWindow(tk.Toplevel):
         #Init and pack widgets
         self.title("Search")
         self.resizable(0, 0)
-        self.attributes("-toplevel", True)
         self.wm_protocol("WM_DELETE_WINDOW", lambda: self.SearchWindowClose())
 
         self.search_variable = tk.StringVar()
