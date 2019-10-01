@@ -33,7 +33,11 @@ A lightweight text editor written in Python which uses the tkinter module.
 * **Themes**
 
   Change the color of the interface! Seven garish, eye-scorching themes to choose from! Out**stand**ing!
+  
+    ![](gifs/themes.gif)
 
 * **…Additional Features**
 
   …Additional Features.
+  
+  ![](gifs/additional_features.gif)
