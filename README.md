@@ -29,6 +29,12 @@ A lightweight text editor written in Python which uses the tkinter module.
 * **Keyboard shortcuts**
 
   For those who are too cool for clicking.
+  
+* **Searching**
+  
+  Find desired words!
+  
+  ![](gifs/search.gif)
 
 * **Themes**
 
